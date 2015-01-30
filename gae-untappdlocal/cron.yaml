@@ -1,0 +1,8 @@
+cron:
+- description: Get new data from Utappd every 5 minutes.
+  url: /
+  schedule: every 5 minutes
+  
+  
+  
+  

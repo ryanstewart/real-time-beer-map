@@ -1,0 +1,2619 @@
+{
+    "checkins": [{
+        "checkin_id": 150312316,
+        "created_at": "Thu, 29 Jan 2015 06:01:06 +0000",
+        "checkin_comment": "RYE RYE RYE RYE ROASTED RYE. I love this beer so much and I have it again at last thank you Aaron!",
+        "rating_score": 5,
+        "user": {
+            "uid": 1073771,
+            "user_name": "Hopbackward",
+            "first_name": "Courtney",
+            "last_name": "",
+            "location": "Madison, Wis.",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/47ad222e74adbcebf59a6bb6d10655a7_100x100.jpg",
+            "is_private": 0,
+            "contact": {
+                "twitter": "courtneyzott",
+                "facebook": 1373991733
+            }
+        },
+        "beer": {
+            "bid": 252516,
+            "beer_name": "Roasted Rye",
+            "beer_abv": 7,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_252516_sm_1916c9a056d544a9f41e61a31daea9.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 711184,
+            "venue_name": "Breese Stevens Soccer Field",
+            "primary_category": "Arts & Entertainment",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Soccer Stadium",
+                    "category_id": "4bf58dd8d48988d188941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/arts_entertainment\/stadium_soccer_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "Madison",
+                "venue_state": "WI",
+                "lat": 43.0835,
+                "lng": -89.3736
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "4c2169399a67a593e6ffda87",
+                "foursquare_url": "http:\/\/4sq.com\/bzZYXV"
+            }
+        },
+        "comments": {
+            "total_count": 1,
+            "count": 1,
+            "items": [{
+                "user": {
+                    "uid": 167695,
+                    "user_name": "aamartin",
+                    "first_name": "Aaron",
+                    "last_name": "M.",
+                    "bio": "\"The craft brewing community is 99% asshole free.\" It is beer, enjoy it and enjoy the people you drink it with.",
+                    "location": "Seattle, Wa",
+                    "relationship": "none",
+                    "is_supporter": 1,
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/af65077076383437f28e4a51da512b7c_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/aamartin",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "checkin_id": 150312316,
+                "comment_id": 12530669,
+                "comment_owner": false,
+                "comment_editor": false,
+                "comment": "You are welcome.",
+                "created_at": "Thu, 29 Jan 2015 06:01:47 +0000",
+                "comment_source": "API"
+            }]
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 1484545,
+                "user": {
+                    "uid": 1484545,
+                    "user_name": "mingomurph",
+                    "first_name": "Mingo",
+                    "last_name": "M.",
+                    "bio": "",
+                    "location": "Murphy Mansion",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/23c6e96f93ad40f7b2c7f60b808a2287_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/mingomurph",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 81353068,
+                "like_owner": false,
+                "created_at": "Thu, 29 Jan 2015 06:15:45 +0000"
+            }]
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 150312219,
+        "created_at": "Thu, 29 Jan 2015 05:59:58 +0000",
+        "checkin_comment": "So much awesome.  Been far too long!",
+        "rating_score": 5,
+        "user": {
+            "uid": 167695,
+            "user_name": "aamartin",
+            "first_name": "Aaron",
+            "last_name": "M.",
+            "location": "Seattle, Wa",
+            "url": "",
+            "is_supporter": 1,
+            "bio": "\"The craft brewing community is 99% asshole free.\" It is beer, enjoy it and enjoy the people you drink it with.",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/af65077076383437f28e4a51da512b7c_100x100.jpg",
+            "is_private": 0,
+            "contact": {
+                "facebook": 588772050
+            }
+        },
+        "beer": {
+            "bid": 252516,
+            "beer_name": "Roasted Rye",
+            "beer_abv": 7,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_252516_sm_1916c9a056d544a9f41e61a31daea9.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2042979,
+            "venue_name": "Phinney Ridge Brewing",
+            "primary_category": "Food",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/brewery_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/brewery_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/brewery_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.6611,
+                "lng": -122.354
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "5404f853498e2f9a6603dbfb",
+                "foursquare_url": "http:\/\/4sq.com\/1A0FzlK"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 1073771,
+                "user": {
+                    "uid": 1073771,
+                    "user_name": "Hopbackward",
+                    "first_name": "Courtney",
+                    "last_name": "",
+                    "bio": "",
+                    "location": "Madison, Wis.",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/47ad222e74adbcebf59a6bb6d10655a7_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/Hopbackward",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 81352001,
+                "like_owner": false,
+                "created_at": "Thu, 29 Jan 2015 06:02:05 +0000"
+            }]
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Windows Phone",
+            "app_website": "http:\/\/untappd.com\/windows"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 150304908,
+        "created_at": "Thu, 29 Jan 2015 04:56:48 +0000",
+        "checkin_comment": "Dark and smooth.",
+        "rating_score": 4.5,
+        "user": {
+            "uid": 1714905,
+            "user_name": "SMKirkham",
+            "first_name": "Stuart",
+            "last_name": "K.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/30baae368a13be41bcffeca356f50760_100x100.jpg",
+            "is_private": 0,
+            "contact": {
+                "facebook": 10152087684441299
+            }
+        },
+        "beer": {
+            "bid": 263655,
+            "beer_name": "Imperial Oatmeal Stout",
+            "beer_abv": 8.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_263655_sm_ee2858ce27f67e025c89891d508900.jpeg",
+            "beer_style": "Imperial Oatmeal Stout",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 1,
+            "items": [{
+                "photo_id": 29252014,
+                "photo": {
+                    "photo_img_sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/cd6b3677deafc55c8df733bc4170cdc7_100x100.jpg",
+                    "photo_img_md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/cd6b3677deafc55c8df733bc4170cdc7_320x320.jpg",
+                    "photo_img_lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/cd6b3677deafc55c8df733bc4170cdc7_640x640.jpg",
+                    "photo_img_og": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/cd6b3677deafc55c8df733bc4170cdc7_raw.jpg"
+                }
+            }]
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 186,
+                "user_badge_id": 45201513,
+                "badge_name": "Local Flavor",
+                "badge_description": "Supporting local breweries is what helps the craft beer scene grow. You obviously know this since you\u2019re enjoying the local flavor! Be sure to always drink locally.",
+                "created_at": "Thu, 29 Jan 2015 04:56:48 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_LocalFlavor_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_LocalFlavor_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_LocalFlavor_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 150255457,
+        "created_at": "Thu, 29 Jan 2015 01:54:46 +0000",
+        "checkin_comment": "Light and tasty",
+        "rating_score": 3.5,
+        "user": {
+            "uid": 723660,
+            "user_name": "TheAeschylus",
+            "first_name": "Jeremy",
+            "last_name": "T.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/a87a8c9c027f7b668015fc82a7d03c3f_thumb.jpg",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 422217,
+            "beer_name": "Cream Ale",
+            "beer_abv": 5,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_422217_sm_124c53a64dff492aec6f00fdd9a70b.jpeg",
+            "beer_style": "Cream Ale",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2159915,
+            "venue_name": "Black Bottle",
+            "primary_category": "Food",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "Bellevue",
+                "venue_state": "WA",
+                "lat": 47.6184,
+                "lng": -122.202
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "54278fba498e920cadb6bcbf",
+                "foursquare_url": "http:\/\/4sq.com\/1wOMoXD"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Windows Phone",
+            "app_website": "http:\/\/untappd.com\/windows"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 150254984,
+        "created_at": "Thu, 29 Jan 2015 01:53:32 +0000",
+        "checkin_comment": "Makes me think of a hoppy\/bitter Oktoberfest.",
+        "rating_score": 3.5,
+        "user": {
+            "uid": 1717926,
+            "user_name": "maxiemad",
+            "first_name": "aaron",
+            "last_name": "g.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/d39ff022161d2a6d1deda40559600df9?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 252516,
+            "beer_name": "Roasted Rye",
+            "beer_abv": 7,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_252516_sm_1916c9a056d544a9f41e61a31daea9.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 1,
+            "items": [{
+                "photo_id": 29239983,
+                "photo": {
+                    "photo_img_sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/2528d34bd2929d6ae5ff4951ce0d0636_100x100.jpg",
+                    "photo_img_md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/2528d34bd2929d6ae5ff4951ce0d0636_320x320.jpg",
+                    "photo_img_lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/2528d34bd2929d6ae5ff4951ce0d0636_640x640.jpg",
+                    "photo_img_og": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/2528d34bd2929d6ae5ff4951ce0d0636_raw.jpg"
+                }
+            }]
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 412,
+                "user_badge_id": 45182126,
+                "badge_name": "Photogenic Brew",
+                "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it\u2019s time to drink it! That\u2019s 5 check-ins with a photo. ",
+                "created_at": "Thu, 29 Jan 2015 01:53:32 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_beertography_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_beertography_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_beertography_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 150249126,
+        "created_at": "Thu, 29 Jan 2015 01:37:52 +0000",
+        "checkin_comment": "",
+        "rating_score": 4.5,
+        "user": {
+            "uid": 330841,
+            "user_name": "Hollyanng",
+            "first_name": "Holly",
+            "last_name": "G.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/55990665e1951c31bd817c374cb1774c_100x100.jpg",
+            "is_private": 0,
+            "contact": {
+                "facebook": 510474871
+            }
+        },
+        "beer": {
+            "bid": 263655,
+            "beer_name": "Imperial Oatmeal Stout",
+            "beer_abv": 8.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_263655_sm_ee2858ce27f67e025c89891d508900.jpeg",
+            "beer_style": "Imperial Oatmeal Stout",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 8651,
+            "venue_name": "Beveridge Place Pub",
+            "primary_category": "Nightlife Spot",
+            "categories": {
+                "count": 2,
+                "items": [{
+                    "category_name": "Pub",
+                    "category_id": "4bf58dd8d48988d11b941735",
+                    "is_primary": true
+                }, {
+                    "category_name": "Bar",
+                    "category_id": "4bf58dd8d48988d116941735",
+                    "is_primary": false
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_bg_88.png"
+            },
+            "location": {
+                "venue_address": "6413 California Ave SW",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.5454,
+                "lng": -122.387
+            },
+            "contact": {
+                "twitter": "@bppub",
+                "venue_url": "http:\/\/www.beveridgeplacepub.com"
+            },
+            "foursquare": {
+                "foursquare_id": "442c2497f964a520d0311fe3",
+                "foursquare_url": "http:\/\/4sq.com\/4sw0DJ"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 324388,
+                "user": {
+                    "uid": 324388,
+                    "user_name": "Darinbrill",
+                    "first_name": "Darin",
+                    "last_name": "B.",
+                    "bio": "",
+                    "location": "Seattle",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/4f2e91e0d7c234eb1f66b42ba8e3af93_thumb.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/Darinbrill",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 81304105,
+                "like_owner": false,
+                "created_at": "Thu, 29 Jan 2015 02:10:50 +0000"
+            }]
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 539,
+                "user_badge_id": 45179995,
+                "badge_name": "Land of the Free (Level 3)",
+                "badge_description": "You\u2019ve pledged allegiance, and now it\u2019s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That\u2019s 15 different beers from a brewery in the United States. Try 5 more for Level 4.",
+                "created_at": "Thu, 29 Jan 2015 01:37:53 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 150228420,
+        "created_at": "Thu, 29 Jan 2015 00:43:06 +0000",
+        "checkin_comment": "",
+        "rating_score": 2,
+        "user": {
+            "uid": 373742,
+            "user_name": "EduM",
+            "first_name": "Edu",
+            "last_name": "",
+            "location": "Seattle, WA",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "In search of the ultimate Pilsner. @edumit",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/1aabe77af2617398d7e824ef8271da79_100x100.png",
+            "is_private": 0,
+            "contact": {
+                "twitter": "edumit"
+            }
+        },
+        "beer": {
+            "bid": 422217,
+            "beer_name": "Cream Ale",
+            "beer_abv": 5,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_422217_sm_124c53a64dff492aec6f00fdd9a70b.jpeg",
+            "beer_style": "Cream Ale",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2159915,
+            "venue_name": "Black Bottle",
+            "primary_category": "Food",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "American Restaurant",
+                    "category_id": "4bf58dd8d48988d14e941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "Bellevue",
+                "venue_state": "WA",
+                "lat": 47.6184,
+                "lng": -122.202
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "54278fba498e920cadb6bcbf",
+                "foursquare_url": "http:\/\/4sq.com\/1wOMoXD"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 707676,
+                "user": {
+                    "uid": 707676,
+                    "user_name": "sayala",
+                    "first_name": "Sebastian",
+                    "last_name": "A.",
+                    "bio": "",
+                    "location": "Seattle, WA",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/17b49dc9a5175dfdd7ceaecfd8bc0122_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/sayala",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 81329721,
+                "like_owner": false,
+                "created_at": "Thu, 29 Jan 2015 03:44:50 +0000"
+            }]
+        },
+        "media": {
+            "count": 1,
+            "items": [{
+                "photo_id": 29233270,
+                "photo": {
+                    "photo_img_sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/97e9c32ce43b9038d59b6bdbf38d6135_100x100.jpg",
+                    "photo_img_md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/97e9c32ce43b9038d59b6bdbf38d6135_320x320.jpg",
+                    "photo_img_lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/97e9c32ce43b9038d59b6bdbf38d6135_640x640.jpg",
+                    "photo_img_og": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/97e9c32ce43b9038d59b6bdbf38d6135_raw.jpg"
+                }
+            }]
+        },
+        "source": {
+            "app_name": "Untappd for Windows Phone",
+            "app_website": "http:\/\/untappd.com\/windows"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 150216099,
+        "created_at": "Thu, 29 Jan 2015 00:07:43 +0000",
+        "checkin_comment": "Awesome imperial IPA from a local craft brewery in Seattle. Recommended by Dan at Special Brews",
+        "rating_score": 5,
+        "user": {
+            "uid": 417796,
+            "user_name": "VT_Marauder",
+            "first_name": "Ryan",
+            "last_name": "S.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/821838599f87f9457a65a07b55b57833_100x100.jpg",
+            "is_private": 0,
+            "contact": {
+                "facebook": 6202078
+            }
+        },
+        "beer": {
+            "bid": 212617,
+            "beer_name": "Imperial IPA",
+            "beer_abv": 9.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_212617_sm_73f95d6883d83a4efb5d6e26e05fda.jpeg",
+            "beer_style": "Imperial \/ Double IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 1,
+            "items": [{
+                "photo_id": 29230040,
+                "photo": {
+                    "photo_img_sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/48360cd988ad8d8dfcd3ae716aa496b1_100x100.jpg",
+                    "photo_img_md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/48360cd988ad8d8dfcd3ae716aa496b1_320x320.jpg",
+                    "photo_img_lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/48360cd988ad8d8dfcd3ae716aa496b1_640x640.jpg",
+                    "photo_img_og": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_29\/48360cd988ad8d8dfcd3ae716aa496b1_raw.jpg"
+                }
+            }]
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 789,
+                "user_badge_id": 45167098,
+                "badge_name": "Photogenic Brew (Level 4)",
+                "badge_description": "It takes the perfect amount light, the right framing and a touch of creative love to get the perfect picture of your brew. Now it\u2019s time to drink it! That\u2019s 20 check-ins with a photo. ",
+                "created_at": "Thu, 29 Jan 2015 00:07:43 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_beertography_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_beertography_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_beertography_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 150143395,
+        "created_at": "Wed, 28 Jan 2015 10:03:02 +0000",
+        "checkin_comment": "",
+        "rating_score": 3.5,
+        "user": {
+            "uid": 424369,
+            "user_name": "bgatz",
+            "first_name": "Brooks",
+            "last_name": "G.",
+            "location": "Seattle, WA",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/c268fc72ceaab57af899cc2a2d3b3cb7_thumb.jpg",
+            "is_private": 0,
+            "contact": {
+                "twitter": "escapetheshoe",
+                "facebook": 100000049517937
+            }
+        },
+        "beer": {
+            "bid": 252516,
+            "beer_name": "Roasted Rye",
+            "beer_abv": 7,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_252516_sm_1916c9a056d544a9f41e61a31daea9.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 150137779,
+        "created_at": "Wed, 28 Jan 2015 06:39:08 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 40855,
+            "user_name": "cmhess",
+            "first_name": "Chris",
+            "last_name": "H.",
+            "location": "Radford, VA",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/e82903545f3917ae5f487cadfbae0f7a_thumb.jpg",
+            "is_private": 0,
+            "contact": {
+                "foursquare": 10341400,
+                "facebook": 627407252
+            }
+        },
+        "beer": {
+            "bid": 212617,
+            "beer_name": "Imperial IPA",
+            "beer_abv": 9.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_212617_sm_73f95d6883d83a4efb5d6e26e05fda.jpeg",
+            "beer_style": "Imperial \/ Double IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 150045963,
+        "created_at": "Wed, 28 Jan 2015 00:02:18 +0000",
+        "checkin_comment": "",
+        "rating_score": 5,
+        "user": {
+            "uid": 1181011,
+            "user_name": "Sgamba",
+            "first_name": "Steve",
+            "last_name": "G.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/f60e7edd9a336154b608ee4009dfcebe_100x100.jpg",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 683655,
+            "beer_name": "Expat IPA",
+            "beer_abv": 8,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/assets\/images\/temp\/badge-beer-default.png",
+            "beer_style": "American IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2304475,
+            "venue_name": "The Westy Sports and Spirits",
+            "primary_category": "Nightlife Spot",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Sports Bar",
+                    "category_id": "4bf58dd8d48988d11d941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/sportsbar_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/sportsbar_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/sportsbar_bg_88.png"
+            },
+            "location": {
+                "venue_address": "7808 35th Ave SW",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.5316,
+                "lng": -122.376
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "5472981b498e591c7c92e204",
+                "foursquare_url": "http:\/\/4sq.com\/1zhfbVf"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 111,
+                "user_badge_id": 45100124,
+                "badge_name": "I Believe in IPA! (Level 7)",
+                "badge_description": "We believe in IPA and you should too. You certainly have a taste for the hops! That's 35 different IPAs. Try 5 more for Level 8.",
+                "created_at": "Wed, 28 Jan 2015 00:02:18 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_hoptopia_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_hoptopia_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_hoptopia_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 149973641,
+        "created_at": "Tue, 27 Jan 2015 08:43:47 +0000",
+        "checkin_comment": "Solid beer right here :), thanks to my sister for bringing this bad boy back from Seattle. 78\/100",
+        "rating_score": 4,
+        "user": {
+            "uid": 1408974,
+            "user_name": "thejohnchamp",
+            "first_name": "John",
+            "last_name": "C.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/ba3d92aad9553c6455778b6230db2e75_100x100.jpg",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 212617,
+            "beer_name": "Imperial IPA",
+            "beer_abv": 9.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_212617_sm_73f95d6883d83a4efb5d6e26e05fda.jpeg",
+            "beer_style": "Imperial \/ Double IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 7520,
+                "user": {
+                    "uid": 7520,
+                    "user_name": "ebostrom",
+                    "first_name": "Eric",
+                    "last_name": "B.",
+                    "bio": "Love a good American IPA and big stouts.  Will trade beer.  Email me at eric.c.bostrom@gmail.com for trade inquiries.",
+                    "location": "Marietta, GA",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/12fa1c6bce8312dc5862cb8ad3f0d6c4_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/ebostrom",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 81051942,
+                "like_owner": false,
+                "created_at": "Tue, 27 Jan 2015 12:48:18 +0000"
+            }]
+        },
+        "media": {
+            "count": 1,
+            "items": [{
+                "photo_id": 29160853,
+                "photo": {
+                    "photo_img_sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_27\/31b992c77c5169d26d3f7ff9da97f1ef_100x100.jpg",
+                    "photo_img_md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_27\/31b992c77c5169d26d3f7ff9da97f1ef_320x320.jpg",
+                    "photo_img_lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_27\/31b992c77c5169d26d3f7ff9da97f1ef_640x640.jpg",
+                    "photo_img_og": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_27\/31b992c77c5169d26d3f7ff9da97f1ef_raw.jpg"
+                }
+            }]
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149940174,
+        "created_at": "Tue, 27 Jan 2015 03:14:45 +0000",
+        "checkin_comment": "",
+        "rating_score": 0,
+        "user": {
+            "uid": 347512,
+            "user_name": "LisaJ23",
+            "first_name": "Lisa",
+            "last_name": "A.",
+            "location": "",
+            "url": "http:\/\/www.watergrainhopsyeast.WordPress.com",
+            "is_supporter": 0,
+            "bio": "I'm a brewer at my family's brewery, Heater Allen, in McMinnville, OR. I love beer of all shapes, colors, and sizes.",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/0ef4dd6d3ed60445adb439a43e4edc88_100x100.jpg",
+            "is_private": 0,
+            "contact": {
+                "twitter": "LisaJ23",
+                "facebook": 19704116
+            }
+        },
+        "beer": {
+            "bid": 252516,
+            "beer_name": "Roasted Rye",
+            "beer_abv": 7,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_252516_sm_1916c9a056d544a9f41e61a31daea9.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2315243,
+            "venue_name": "Beer Camp",
+            "primary_category": "Nightlife Spot",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "McMinnville",
+                "venue_state": "OR",
+                "lat": 45.2184,
+                "lng": -123.193
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "5476b06c498e385d53bceba2",
+                "foursquare_url": "http:\/\/4sq.com\/1yjxL0B"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 442546,
+                "user": {
+                    "uid": 442546,
+                    "user_name": "sodakotakid",
+                    "first_name": "Michael",
+                    "last_name": "R.",
+                    "bio": "",
+                    "location": "Belle Fourche, South Dakota",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/e400ebc24d722ca566e78f558925b965_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/sodakotakid",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 81020748,
+                "like_owner": false,
+                "created_at": "Tue, 27 Jan 2015 03:57:13 +0000"
+            }]
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149933842,
+        "created_at": "Tue, 27 Jan 2015 02:50:43 +0000",
+        "checkin_comment": "",
+        "rating_score": 0,
+        "user": {
+            "uid": 543969,
+            "user_name": "bmcneil",
+            "first_name": "Brian",
+            "last_name": "M.",
+            "location": "Seattle",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/fca1d6bdd54ba1bb428e8d54a0625193?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 263655,
+            "beer_name": "Imperial Oatmeal Stout",
+            "beer_abv": 8.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_263655_sm_ee2858ce27f67e025c89891d508900.jpeg",
+            "beer_style": "Imperial Oatmeal Stout",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 1830473,
+            "venue_name": "Ballard Beer Company",
+            "primary_category": "Nightlife Spot",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_88.png"
+            },
+            "location": {
+                "venue_address": "2050 NW Market St",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.6689,
+                "lng": -122.384
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "53bdea1a498e4c32e8eb6817",
+                "foursquare_url": "http:\/\/4sq.com\/VMD5dS"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Windows Phone",
+            "app_website": "http:\/\/untappd.com\/windows"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149932553,
+        "created_at": "Tue, 27 Jan 2015 02:46:13 +0000",
+        "checkin_comment": "",
+        "rating_score": 0,
+        "user": {
+            "uid": 1688248,
+            "user_name": "SNIKRAHTAP",
+            "first_name": "Hank",
+            "last_name": "S.",
+            "location": "Oregon",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "No, a little about YOURSELF!",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/bac80aee3ded16a1cfe9d76ac6de32e8_100x100.jpg",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 252516,
+            "beer_name": "Roasted Rye",
+            "beer_abv": 7,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_252516_sm_1916c9a056d544a9f41e61a31daea9.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2315243,
+            "venue_name": "Beer Camp",
+            "primary_category": "Nightlife Spot",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Beer Garden",
+                    "category_id": "4bf58dd8d48988d117941735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/beergarden_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "McMinnville",
+                "venue_state": "OR",
+                "lat": 45.2184,
+                "lng": -123.193
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "5476b06c498e385d53bceba2",
+                "foursquare_url": "http:\/\/4sq.com\/1yjxL0B"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 2016,
+                "user_badge_id": 45055573,
+                "badge_name": "Land of the Free  (Level 30)",
+                "badge_description": "You\u2019ve pledged allegiance, and now it\u2019s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That\u2019s 150 different beers from a brewery in the United States. Try 5 more for Level 31.",
+                "created_at": "Tue, 27 Jan 2015 02:46:14 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 149927225,
+        "created_at": "Tue, 27 Jan 2015 02:28:58 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 217755,
+            "user_name": "monochromeseas",
+            "first_name": "Sharath",
+            "last_name": "V.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "I use social media to make myself seem more interesting than I am! Do you like beer? Me too!",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/64bc2e8c7ec4c2cada7b00a7541a7b05_thumb.jpg",
+            "is_private": 0,
+            "contact": {
+                "twitter": "Monochromeseas",
+                "foursquare": 22832919,
+                "facebook": 696446611
+            }
+        },
+        "beer": {
+            "bid": 263655,
+            "beer_name": "Imperial Oatmeal Stout",
+            "beer_abv": 8.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_263655_sm_ee2858ce27f67e025c89891d508900.jpeg",
+            "beer_style": "Imperial Oatmeal Stout",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149841508,
+        "created_at": "Mon, 26 Jan 2015 20:16:27 +0000",
+        "checkin_comment": "",
+        "rating_score": 3.5,
+        "user": {
+            "uid": 1863613,
+            "user_name": "Hbbultman",
+            "first_name": "Heath",
+            "last_name": "B.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/13540dd368674742633d5174e93ac797?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 212617,
+            "beer_name": "Imperial IPA",
+            "beer_abv": 9.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_212617_sm_73f95d6883d83a4efb5d6e26e05fda.jpeg",
+            "beer_style": "Imperial \/ Double IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 345045,
+            "venue_name": "Reuben's Brews",
+            "primary_category": "Food",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Brewery",
+                    "category_id": "50327c8591d4c4b30a586d5d",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/brewery_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/brewery_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/brewery_bg_88.png"
+            },
+            "location": {
+                "venue_address": "1406 NW 53rd St. Suite 1A",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": "http:\/\/reubensbrews.com"
+            },
+            "foursquare": {
+                "foursquare_id": "4f1c60f5e4b04ae084158528",
+                "foursquare_url": "http:\/\/4sq.com\/wW8etq"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149823829,
+        "created_at": "Mon, 26 Jan 2015 15:59:06 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 1447966,
+            "user_name": "hambone1990",
+            "first_name": "kyle",
+            "last_name": "h.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/e7303ebcb3edc7e259c483b224bf1dbd?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": {
+                "facebook": 100000058309436
+            }
+        },
+        "beer": {
+            "bid": 763362,
+            "beer_name": "Crikey IPA",
+            "beer_abv": 6.8,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-763362_a3d65_sm.jpeg",
+            "beer_style": "American IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149823802,
+        "created_at": "Mon, 26 Jan 2015 15:58:39 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 1447966,
+            "user_name": "hambone1990",
+            "first_name": "kyle",
+            "last_name": "h.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/e7303ebcb3edc7e259c483b224bf1dbd?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": {
+                "facebook": 100000058309436
+            }
+        },
+        "beer": {
+            "bid": 263655,
+            "beer_name": "Imperial Oatmeal Stout",
+            "beer_abv": 8.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_263655_sm_ee2858ce27f67e025c89891d508900.jpeg",
+            "beer_style": "Imperial Oatmeal Stout",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149823784,
+        "created_at": "Mon, 26 Jan 2015 15:58:15 +0000",
+        "checkin_comment": "",
+        "rating_score": 4.5,
+        "user": {
+            "uid": 1447966,
+            "user_name": "hambone1990",
+            "first_name": "kyle",
+            "last_name": "h.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/e7303ebcb3edc7e259c483b224bf1dbd?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": {
+                "facebook": 100000058309436
+            }
+        },
+        "beer": {
+            "bid": 210869,
+            "beer_name": "American Rye",
+            "beer_abv": 5.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_210869_91c0f877f8bccf709fd115ddd863.jpeg",
+            "beer_style": "Rye Beer",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149823767,
+        "created_at": "Mon, 26 Jan 2015 15:57:54 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 1447966,
+            "user_name": "hambone1990",
+            "first_name": "kyle",
+            "last_name": "h.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/e7303ebcb3edc7e259c483b224bf1dbd?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": {
+                "facebook": 100000058309436
+            }
+        },
+        "beer": {
+            "bid": 212617,
+            "beer_name": "Imperial IPA",
+            "beer_abv": 9.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_212617_sm_73f95d6883d83a4efb5d6e26e05fda.jpeg",
+            "beer_style": "Imperial \/ Double IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 1,
+            "items": [{
+                "badge_id": 2012,
+                "user_badge_id": 45012080,
+                "badge_name": "Land of the Free  (Level 26)",
+                "badge_description": "You\u2019ve pledged allegiance, and now it\u2019s time to enjoy some beer! Now remember, not all American beer is fizzy and yellow. That\u2019s 130 different beers from a brewery in the United States. Try 5 more for Level 27.",
+                "created_at": "Mon, 26 Jan 2015 15:57:55 +0000",
+                "badge_image": {
+                    "sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_sm.jpg",
+                    "md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_md.jpg",
+                    "lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/badges\/bdg_america_lg.jpg"
+                }
+            }]
+        }
+    }, {
+        "checkin_id": 149804318,
+        "created_at": "Mon, 26 Jan 2015 05:24:13 +0000",
+        "checkin_comment": "Pours a darker orange color. Pines and citrus aroma. Very smooth. Interesting twist with the use of spicy rye. Very good DIPA.",
+        "rating_score": 4.5,
+        "user": {
+            "uid": 1243996,
+            "user_name": "Choisanity",
+            "first_name": "Randy",
+            "last_name": "C.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/d5484c3c910e6423f55a98769b5ffeba?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 213652,
+            "beer_name": "Imperial Rye IPA",
+            "beer_abv": 8.4,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_213652_c36c37dd02be6b2ebb98965693d0.jpeg",
+            "beer_style": "Imperial \/ Double IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 296530,
+            "venue_name": "South Waterfront District",
+            "primary_category": "Outdoors & Recreation",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Neighborhood",
+                    "category_id": "4f2a25ac4b909258e854f55f",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "Portland",
+                "venue_state": "OR",
+                "lat": 45.4975,
+                "lng": -122.671
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "4d05b8fe9d33a143c581c278",
+                "foursquare_url": "http:\/\/4sq.com\/eJAXck"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 1143368,
+                "user": {
+                    "uid": 1143368,
+                    "user_name": "reschumacher54",
+                    "first_name": "Robert",
+                    "last_name": "S.",
+                    "bio": "",
+                    "location": "WannaBe Belgium Pub",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/e98aade99ab176b2d98411c8ec228745_100x100.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/reschumacher54",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 80988822,
+                "like_owner": false,
+                "created_at": "Tue, 27 Jan 2015 01:59:42 +0000"
+            }]
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149781948,
+        "created_at": "Mon, 26 Jan 2015 03:12:58 +0000",
+        "checkin_comment": "",
+        "rating_score": 3.5,
+        "user": {
+            "uid": 425028,
+            "user_name": "graeff51",
+            "first_name": "Ben",
+            "last_name": "G.",
+            "location": "",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/a32974ef84174dced62bf0c6bb603c69_thumb.jpg",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 763362,
+            "beer_name": "Crikey IPA",
+            "beer_abv": 6.8,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-763362_a3d65_sm.jpeg",
+            "beer_style": "American IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 2355288,
+            "venue_name": "12 Beers of Christmas",
+            "primary_category": "Event",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "Festivals",
+                    "category_id": "5267e4d9e4b0ec79466e48c7",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/event\/default_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/event\/default_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/event\/default_bg_88.png"
+            },
+            "location": {
+                "venue_address": "6550 12th Ave NW",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.6775,
+                "lng": -122.372
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "54839101498efacad8d9de75",
+                "foursquare_url": "http:\/\/4sq.com\/1vZbtzp"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 3,
+            "count": 3,
+            "auth_toast": null,
+            "items": [{
+                "uid": 425452,
+                "user": {
+                    "uid": 425452,
+                    "user_name": "freundchen",
+                    "first_name": "Karsten",
+                    "last_name": "F.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https:\/\/gravatar.com\/avatar\/2abccdae8f9537c1004de43432ff4f2a?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "user_link": "https:\/\/untappd.com\/user\/freundchen",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 80923016,
+                "like_owner": false,
+                "created_at": "Mon, 26 Jan 2015 19:45:43 +0000"
+            }, {
+                "uid": 1042225,
+                "user": {
+                    "uid": 1042225,
+                    "user_name": "hkaminskis",
+                    "first_name": "Henry",
+                    "last_name": "K.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https:\/\/gravatar.com\/avatar\/f99d6ce8020df401790913a1f1b65963?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+                    "user_link": "https:\/\/untappd.com\/user\/hkaminskis",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 80870318,
+                "like_owner": false,
+                "created_at": "Mon, 26 Jan 2015 05:34:14 +0000"
+            }, {
+                "uid": 425426,
+                "user": {
+                    "uid": 425426,
+                    "user_name": "KissMyWhisk",
+                    "first_name": "Carrie",
+                    "last_name": "H.",
+                    "bio": "",
+                    "location": "",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/0eb9afc55b94cded5ff8d75d53999043_thumb.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/KissMyWhisk",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 80867592,
+                "like_owner": false,
+                "created_at": "Mon, 26 Jan 2015 05:10:49 +0000"
+            }]
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149781691,
+        "created_at": "Mon, 26 Jan 2015 03:11:52 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 433440,
+            "user_name": "598hertan",
+            "first_name": "James",
+            "last_name": "H.",
+            "location": "Seattle, WA",
+            "url": "http:\/\/www.kissmywhisk.com",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/64eeb9d4266a656040fe91442ae85ac2_thumb.jpg",
+            "is_private": 0,
+            "contact": []
+        },
+        "beer": {
+            "bid": 763362,
+            "beer_name": "Crikey IPA",
+            "beer_abv": 6.8,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-763362_a3d65_sm.jpeg",
+            "beer_style": "American IPA",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": {
+            "venue_id": 805554,
+            "venue_name": "65th And 15th",
+            "primary_category": "Travel & Transport",
+            "categories": {
+                "count": 1,
+                "items": [{
+                    "category_name": "General Travel",
+                    "category_id": "4bf58dd8d48988d1f6931735",
+                    "is_primary": true
+                }]
+            },
+            "venue_icon": {
+                "sm": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_bg_64.png",
+                "md": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_bg_88.png",
+                "lg": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_bg_88.png"
+            },
+            "location": {
+                "venue_address": "",
+                "venue_city": "Seattle",
+                "venue_state": "WA",
+                "lat": 47.6761,
+                "lng": -122.377
+            },
+            "contact": {
+                "twitter": "",
+                "venue_url": ""
+            },
+            "foursquare": {
+                "foursquare_id": "4e8b84c80aaf7fe613a4b45c",
+                "foursquare_url": "http:\/\/4sq.com\/qpWusG"
+            }
+        },
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 1,
+            "count": 1,
+            "auth_toast": null,
+            "items": [{
+                "uid": 390763,
+                "user": {
+                    "uid": 390763,
+                    "user_name": "eveningtuxedo",
+                    "first_name": "Thomas",
+                    "last_name": "S.",
+                    "bio": "Beer & food history enthusiast.",
+                    "location": "New York, NY",
+                    "user_avatar": "https:\/\/d1c8v1qci5en44.cloudfront.net\/profile\/2d38b35568e2851b06a22c2ad2d5538a_thumb.jpg",
+                    "user_link": "https:\/\/untappd.com\/user\/eveningtuxedo",
+                    "account_type": "user",
+                    "brewery_details": []
+                },
+                "like_id": 80846480,
+                "like_owner": false,
+                "created_at": "Mon, 26 Jan 2015 03:15:09 +0000"
+            }]
+        },
+        "media": {
+            "count": 1,
+            "items": [{
+                "photo_id": 29109804,
+                "photo": {
+                    "photo_img_sm": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_26\/e078c5827466da9a11dcf33eb8ffdba9_100x100.jpg",
+                    "photo_img_md": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_26\/e078c5827466da9a11dcf33eb8ffdba9_320x320.jpg",
+                    "photo_img_lg": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_26\/e078c5827466da9a11dcf33eb8ffdba9_640x640.jpg",
+                    "photo_img_og": "https:\/\/d1c8v1qci5en44.cloudfront.net\/photo\/2015_01_26\/e078c5827466da9a11dcf33eb8ffdba9_raw.jpg"
+                }
+            }]
+        },
+        "source": {
+            "app_name": "Untappd for Android - (V2)",
+            "app_website": "http:\/\/untpd.it\/androidapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }, {
+        "checkin_id": 149769515,
+        "created_at": "Mon, 26 Jan 2015 02:29:47 +0000",
+        "checkin_comment": "",
+        "rating_score": 4,
+        "user": {
+            "uid": 169731,
+            "user_name": "thegarrettp",
+            "first_name": "Garrett",
+            "last_name": "",
+            "location": "Seattle",
+            "url": "",
+            "is_supporter": 0,
+            "bio": "",
+            "relationship": null,
+            "user_avatar": "https:\/\/gravatar.com\/avatar\/718f658ba307db5adc1a7be768733138?size=100&d=https%3A%2F%2Fd1c8v1qci5en44.cloudfront.net%2Fsite%2Fassets%2Fimages%2Fdefault_avatar_v2.jpg%3Fv%3D1",
+            "is_private": 0,
+            "contact": {
+                "twitter": "thegarrettp",
+                "foursquare": 2046361
+            }
+        },
+        "beer": {
+            "bid": 210875,
+            "beer_name": "Robust Porter",
+            "beer_abv": 5.9,
+            "beer_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/beer_logos\/beer-_210875_sm_0927a39f75fdebae6f28b24a61d291.jpeg",
+            "beer_style": "Porter",
+            "auth_rating": 0,
+            "wish_list": false,
+            "beer_active": 1
+        },
+        "brewery": {
+            "brewery_id": 36289,
+            "brewery_name": "Reuben's Brews",
+            "brewery_slug": "reuben-s-brews",
+            "brewery_label": "https:\/\/d1c8v1qci5en44.cloudfront.net\/site\/brewery_logos\/brewery-ReubensBrews_36289.jpeg",
+            "country_name": "United States",
+            "contact": {
+                "twitter": "reubensbrews",
+                "facebook": "http:\/\/www.facebook.com\/Reubensbrews",
+                "instagram": "",
+                "url": "http:\/\/www.reubensbrews.com"
+            },
+            "location": {
+                "brewery_city": "Seattle",
+                "brewery_state": "WA",
+                "lat": 47.6673,
+                "lng": -122.374
+            },
+            "brewery_active": 1
+        },
+        "venue": [],
+        "comments": {
+            "total_count": 0,
+            "count": 0,
+            "items": []
+        },
+        "toasts": {
+            "total_count": 0,
+            "count": 0,
+            "auth_toast": null,
+            "items": []
+        },
+        "media": {
+            "count": 0,
+            "items": []
+        },
+        "source": {
+            "app_name": "Untappd for iPhone - (V2)",
+            "app_website": "http:\/\/untpd.it\/iphoneapp"
+        },
+        "badges": {
+            "count": 0,
+            "items": []
+        }
+    }]
+}

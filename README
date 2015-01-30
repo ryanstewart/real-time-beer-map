@@ -1,0 +1,5 @@
+A real time beer map built with Untappd, Google App Engine, and Firebase.
+
+To get it to work you'll have to get your own Untappd client_id and client_secret.
+
+The `gae-untappdlocal` folder includes the Google App Engine code. The `web-map` code includes the code that runs in the browser.
